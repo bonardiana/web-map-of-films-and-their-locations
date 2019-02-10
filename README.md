@@ -18,9 +18,9 @@ This is a module for creating web art. The web map displays information about th
 # Summary
 ## Layers
 This web-map has three layers. Each of them you can view in screenshots
-**Films** All the locations of films made in the marked year
-**Countries** Countries in which those films were made colored by the number of films had been made there. 0-5 red, 5-10 orange, 10-20 yellow, 20-50 green, 50-100 blue, 100 and more - purpl.
-**Population** Countries colored by their population. Less than 10000000 - green. 10000000-20000000 orange and more than 20000000 red. 
+* **Films** All the locations of films made in the marked year
+* **Countries** Countries in which those films were made colored by the number of films had been made there. 0-5 red, 5-10 orange, 10-20 yellow, 20-50 green, 50-100 blue, 100 and more - purpl.
+* **Population** Countries colored by their population. Less than 10000000 - green. 10000000-20000000 orange and more than 20000000 red. 
 ## Conclusion
 Exploring this program you can lear a lot about the most popular places for film makinkg(NY, London). And about the most unpopular(Africa, Antarctida). Also you can learn that main locations doesn't change and stay popular. And the interesting fact is that there are a lot of film were made in a see or ocean.
 
