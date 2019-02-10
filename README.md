@@ -5,7 +5,7 @@ This is a module for creating web art. The web map displays information about th
 2. world.json -- File with information about countries .
 3. README.md - file with descriptive information.
 4. screenshots -- screenshots of web-maps.
-5. locations.list.txt -- file with films and their locations.
+5. locations.list.txt.zip -- file with films and their locations.
 # HTML structure
 ```<!DOCTYPE> ```	Defines the document type
 ```<head>```	Defines information about the document
